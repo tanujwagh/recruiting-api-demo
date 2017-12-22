@@ -3,7 +3,7 @@
 This is a Java / Maven / Spring Boot (version 1.5.9.RELEASE) application that has been created for Simple Job Offer and Job Application management System.
 
 ## Project Structure
-![alt text](https://github.com/tjwau19/o2esports/raw/master/recruiting_project_structure.JPG)
+![alt text](https://github.com/tjwau19/recruiting-api-demo/raw/master/ProjectStructure.JPG)
 
 ## How to Run 
 
@@ -232,4 +232,4 @@ This test class have the test cases for all the api operations related to Job Ap
 * testCCreateNewJobApplicationWithDuplicateCandidateEmail()  - Checks create new Job Application with duplicate candidate id and related offer id
 * testDUpdateJobApplicationStatus()  - Checks update application status Api endpoint
 
-![alt text](https://github.com/tjwau19/o2esports/raw/master/recruiting_project_structure.JPG)
+![alt text](https://github.com/tjwau19/recruiting-api-demo/raw/master/IntegrationTestResults.JPG)
