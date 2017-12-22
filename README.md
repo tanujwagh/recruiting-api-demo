@@ -7,7 +7,7 @@ This is a Java / Maven / Spring Boot (version 1.5.9.RELEASE) application that ha
 
 ## How to Run 
 
-This application is packaged as a jar which has Tomcat 8 embedded. No Tomcat or JBoss installation is necessary. You run it using the ```java -jar``` command.
+This application is packaged as a jar which has Tomcat 8 embedded. No Tomcat or JBoss installation is necessary. You can run it using the ```java -jar``` command.
 
 * Clone this repository 
 * Make sure you are using JDK 1.8 and Maven 3.x
@@ -35,7 +35,7 @@ After running the jar you will see the REST Api running on **Port 8080**
 
 ## About the Service
 
-The service is just a simple Job Recruiting REST service. It uses an in-memory database (H2) to store the data. You can also do with a relational database like MySQL or PostgreSQL. After executing the jar file REST api will be available on follwing base URL  ```http://localhost:8080/api/v1``` (see below)
+The service is just a simple Job Recruiting REST service. It uses an in-memory database (H2) to store the data. You can also do with a relational database like MySQL or PostgreSQL. After executing the jar file REST api will be available on following base URL  ```http://localhost:8080/api/v1``` (see below)
 
 
 ##### Features
